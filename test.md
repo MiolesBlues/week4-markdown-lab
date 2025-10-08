@@ -1,5 +1,11 @@
-# bomba 
-## bomba 2
-### bomba 3
-1. wadaw
-2. dawdadw
+# test 1
+## test 2
+### test 3
+
+1. one
+2. two
+3. three
+
+- bulletpoint
+- bulletpoint
+- bulletpoint
